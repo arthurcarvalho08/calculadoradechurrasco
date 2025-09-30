@@ -36,5 +36,8 @@ int main() {
  printf("Digite o número de pessoas: ");
  scanf("%d",&pessoas);
 
+ for (int i = 1 ; i<= pessoas; i++){
+ }
+
  mostraResumo(pessoas);
 }
